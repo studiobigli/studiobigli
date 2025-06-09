@@ -2,7 +2,7 @@
 
 Having recently left a twenty year career in retail, I have spent the last year refining a lifetime's worth of computer knowledge and skills in aid of transitioning into a career in IT.  
 
-I have completed a Data Engineering bootcamp with [Northcoders](https://www.northcoders.com/) which has taught me the fundamentals of Python, postgreSQL, Terraform and AWS Cloud infrastructure. This has given me the confidence to further my understanding of other programming languages.
+I have completed a Data Engineering bootcamp with [Northcoders](https://www.northcoders.com/) which has taught me the fundamentals of Python, postgreSQL, Terraform and AWS Cloud infrastructure. It also gave me the chance to work with Agile practices, with our group project having scrum meetings daily, planning and delegating our work tasks with a Kanban board. This has given me the confidence to further my understanding of other programming languages.
 
 I am learning more advanced uses of Python, as well as taking my understanding of this and using it to learn the fundamentals of Go, Rust and Lua with the intent of contributing towards bug fixes and features of daily-driver Linux applications, and self-hosted alternatives to commonly used modern cloud applications.
 
