@@ -13,7 +13,8 @@ I am learning more advanced uses of Python, as well as taking my understanding o
 - [GDPR Obfuscator Project](https://github.com/studiobigli/gdpr-project) - post-bootcamp solo project to develop a Python library capable of taking source CSV files with a list of column names, obfuscating the data in those columns and writing the resulting ofuscated data to a new CSV file. Contains examples using it locally with bash scripts and in an AWS environment, as well as a Python script that generates example data using the Faker library.
 
 ---
-<img align="right" src="https://roadmap.sh/card/tall/66bb7ac84e7fe8964e0b2d8b?variant=dark&roadmaps=python%2Cdevops%2Clinux%2Cdocker"/>
+<a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/tall/66bb7ac84e7fe8964e0b2d8b?variant=dark&roadmaps=python%2Cdevops%2Clinux%2Cdocker"/>
+</a>
 
 Seeking employment in a junior role particularly in the areas of 
 - DevOps
