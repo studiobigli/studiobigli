@@ -10,7 +10,8 @@ I am learning more advanced uses of Python, as well as taking my understanding o
 
 - [TerrificTotes Data Platform Project](https://github.com/studiobigli/northcoders-project) - end of bootcamp group project to develop an Extract -> Transform -> Load (ETL) pipeline with AWS Cloud infrastructure. Coded in Python, with use of the pg8000 library to communicate with postgreSQL databases, deployed to AWS using Terraform and GitHub Actions. Resulting data transformed into human readable data using seaborn, matplotlib, Jupyter Notebook and Tableau.
 
-- [GDPR Obfuscator Project](https://github.com/studiobigli/gdpr-project) - post-bootcamp solo project to develop a Python library capable of taking source CSV files with a list of column names, obfuscating the data in those columns and writing the resulting ofuscated data to a new CSV file. Contains examples using it locally with bash scripts and in an AWS environment, as well as a Python script that generates example data using the Faker library.
+- [GDPR Obfuscator Project](https://github.com/studiobigli/gdpr-project)
+  - post bootcamp solo project to develop a Python library capable of taking a byte stream of CSV with a list of column names, obfuscating the data in those columns and returning the resulting obfuscated data as a byte stream suitable for an end user script to write to a file. Contains examples using it locally with bash scripts and in an AWS environment, as well as a Python script that generates example data using the Faker library.
 
 ---
 <a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/tall/66bb7ac84e7fe8964e0b2d8b?variant=dark&roadmaps=python%2Cdevops%2Clinux%2Cdocker"/>
