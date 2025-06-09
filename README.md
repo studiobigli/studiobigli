@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66bb7ac84e7fe8964e0b2d8b?variant=dark&roadmaps=python%2Cdevops%2Clinux%2Cdocker)](https://roadmap.sh)
 <!--
 **studiobigli/studiobigli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
